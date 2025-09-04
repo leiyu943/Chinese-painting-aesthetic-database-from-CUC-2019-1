@@ -1,5 +1,6 @@
 # Chinese-painting-aesthetic-database-from-CUC-2019-1
 湛颖, 高妍, 谢凌云. 中国国画情感-美感数据库[J]. 中国图象图形学报, 2019,24(12):2267-2278. DOI： 10.11834/jig.190102. 
+
 Ying Zhan, Yan Gao, Lingyun Xie. Database for emotion and aesthetic analysis of traditional Chinese paintings[J]. Journal of image and graphics, 2019, 24(12): 2267-2278. DOI： 10.11834/jig.190102. 
 
 This database consists of 5 classical category pf Chinese painting: mighty(qishi), quiet and beautiful(qingyou), thriving(shengji), elegant(yazhi) and bleak(xiaose). All pictures are located in 5 paralell subfoders. Format of the pictures are '*.jpg', and naming rule of these pictures are 'preprocessing_intensity-of-aesthetic_original-picture-number.jpg'. Note that 'original picture number' may beginning with one of two letters, 'l' indicate pictures of landscape, and 's' tags pictures of still life. One more thing, the 'intensity-of-aesthetic' means intensity in aesthetic (the subfoder's name of the picture).
